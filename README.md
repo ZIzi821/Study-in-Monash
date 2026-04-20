@@ -1,34 +1,3 @@
 # Study-in-Monash
 It contains my code and projects
 
-# Markdown 语法速查表
-
-## 标题
-# 一级标题
-## 二级标题
-### 三级标题
-
-## 文本格式
-**加粗文字**  
-*斜体文字*  
-~~删除线~~  
-`行内代码`
-
-## 列表
-- 无序列表项
-- 第二项
-  - 子项
-
-1. 有序列表项
-2. 第二项
-
-## 链接与图片
-[GitHub](https://github.com)  
-![示例图片](https://via.placeholder.com/150)
-
-## 引用
-> 这是一个引用段落
-
-## 代码块
-```python
-print("Hello, Markdown!")
